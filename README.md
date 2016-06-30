@@ -1,2 +1,1 @@
 # YUA-YoutubeDownloader
-YUA-YoutubeDownloader
